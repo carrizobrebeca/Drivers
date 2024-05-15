@@ -1,0 +1,28 @@
+/* .container {
+    display: flex;
+    justify-content: flex-end;
+    /* 
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.123); 
+  }
+  
+  
+  .container input {
+    margin-right: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  
+  .button {
+    background-color: rgb(141, 223, 238);
+    color: darkblue;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+    
+  .button:hover {
+    background-color: aliceblue;
+  } 
